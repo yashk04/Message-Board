@@ -70,7 +70,7 @@
 </head>
 <body style="background-color: #246990; height: 100%;">
   <div class="main">
-    <h1>Login or Register Here</h1>
+    <h1>Login Here</h1>
     <div class="w3_login">
       <div class="w3_login_module">
         <div class="module form-module">

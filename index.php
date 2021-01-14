@@ -77,7 +77,7 @@
 					}
 					else
 					{
-						echo "If you want to publish something, please <a href=./account.php>Log In or Register</a> first.";
+						echo "If you want to publish something, please <a href=./account.php>Log In</a> first.";
 					}
 				?>
 			</div>
